@@ -36,8 +36,8 @@ An interactive **HR Analytics Dashboard** built using **Power BI** to analyze em
 4. For live visuals, ensure the dataset is available in the same folder.
 
 ## 🔗 Links
-- **GitHub Repo:** [Your Repo Link Here]
-- **Interactive Dashboard:** [Power BI Service Link Here] *(if published)*
+- **GitHub Repo:** (https://github.com/murali181/HR-Data-PowerBI-Dashboard)
+
 
 ---
 
